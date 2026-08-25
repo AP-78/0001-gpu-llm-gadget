@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+build/
+dist/
+GPU-Gadget/
+*.exe
+
+# Secrets
+.env
+src/.env
+
+# lokale Fensterposition
+gpu_gadget_config.json
+src/gpu_gadget_config.json
