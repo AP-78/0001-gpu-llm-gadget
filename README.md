@@ -2,6 +2,8 @@
 
 Desktop-Gadget und Monitoring-Tools fuer NVIDIA-GPUs (z.B. RTX 3060) mit optionaler LLM-Statusanzeige (Ollama) und InfluxDB-Export.
 
+![Screenshot](docs/screenshot.png)
+
 ## Features
 
 - Desktop-Gadget (`src/gpu_gadget.pyw`, Tkinter): zeigt permanent GPU-Auslastung, VRAM (belegt/gesamt) und Temperatur an
